@@ -11,3 +11,7 @@
 
 
 ## test psp on cityscapes
+
+
+
+The code is mainly modified from pytorch encoding.
