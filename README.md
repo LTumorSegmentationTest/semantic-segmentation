@@ -1,16 +1,12 @@
-# semantic-segmentation
-# Download cityscapes and process
+## semantic-segmentation
+First of all, download cityscapes dataset and process the dataset to get 19 class annotation.
 
 
 
-# install pytorch1.0
+## train psp on cityscapes
 
 
-
-# train psp on cityscapes
-
-
-# test psp on cityscapes
+## test psp on cityscapes
 
 
 
